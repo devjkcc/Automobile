@@ -8,7 +8,7 @@
 * Foram aplicados os conhecimentos para realizar o tratamento de dados utilizando python e suas bibliotecas correspondentes.
 
 ## Análise exploratória dos dados
-* Será utilizada a metodologia CRISP-DM para análise exploratória dos dados
--> Visualização de Dados: Box plots, histogramas e gráficos de colunas
--> Medidas resumo: Calcular medidas resumos e suas implicações
+* Será utilizada a metodologia CRISP-DM para análise exploratória dos dados<br>
+-> Visualização de Dados: Box plots, histogramas e gráficos de colunas<br>
+-> Medidas resumo: Calcular medidas resumos e suas implicações<br>
 -> Análise bidimensional: Correlação de Pearson   
