@@ -4,6 +4,11 @@
 2 - Análise exploratória dos dados <br>
 3 - Construção de modelo preditivo
 
+## Principais objetivos
+* Tratar corretamente os dados
+* Através da visualização calcular correlações, definir métricas e descobrir KPI's
+* Utilizar modelo preditivo para prever o preço dos carros baseado nas informações da tabela
+
 ## Tratamento de dados
 * Foram aplicados os conhecimentos para realizar o tratamento de dados utilizando python e suas bibliotecas correspondentes.
 
